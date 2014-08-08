@@ -11,3 +11,5 @@ Must install the soundcloud API:
   easy_install soundcloud
   or
   https://github.com/soundcloud/soundcloud-python
+
+Run with path to save as an arguement, example "python SoundCloudLikes.py /Volumes/Storage/Music/Likes/"
